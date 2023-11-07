@@ -1,0 +1,21 @@
+{
+  "description": "tree loadData bug",
+  "main": "index.jsx",
+  "dependencies": {
+    "react": "*",
+    "rc-tree": "4.1.5",
+    "react-dom": "*"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "keywords": [],
+  "name": "7zh7gy",
+  "version": "0.0.10",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
